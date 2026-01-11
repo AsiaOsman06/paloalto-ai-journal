@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Iam Feeling Good",
+    "analysis": {
+      "sentiment": 0.7,
+      "subjectivity": 0.6000000000000001
+    }
+  },
+  {
+    "text": "Iam Feeling Good",
+    "analysis": {
+      "sentiment": 0.7,
+      "subjectivity": 0.6000000000000001
+    }
+  },
+  {
+    "text": "Today im feeling tired",
+    "analysis": {
+      "sentiment": -0.4,
+      "subjectivity": 0.7
+    }
+  }
+]
