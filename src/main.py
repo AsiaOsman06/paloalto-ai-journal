@@ -9,6 +9,6 @@ def read_root():
 def create_entry(text: str):
     return add_entry(text)
 
-# @app.get("/summary")
-# def summary():
-#     return get_summary()
+@app.get("/summary")
+def summary():
+    return get_summary()
