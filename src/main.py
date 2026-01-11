@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-
+from journal import add_entry, get_summary
 app = FastAPI() # it use it to create new app
 
 @app.get("/") # it a path creater and defines a path
