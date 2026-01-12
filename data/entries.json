@@ -19,5 +19,26 @@
       "sentiment": -0.4,
       "subjectivity": 0.7
     }
+  },
+  {
+    "text": "i feel good ",
+    "analysis": {
+      "sentiment": 0.7,
+      "subjectivity": 0.6000000000000001
+    }
+  },
+  {
+    "text": "Today I Feel Good.",
+    "analysis": {
+      "sentiment": 0.7,
+      "subjectivity": 0.6000000000000001
+    }
+  },
+  {
+    "text": "Today iam feeling great",
+    "analysis": {
+      "sentiment": 0.8,
+      "subjectivity": 0.75
+    }
   }
 ]
